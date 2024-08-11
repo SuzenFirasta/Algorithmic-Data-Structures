@@ -92,5 +92,3 @@ If you have any questions, suggestions, or just want to say hi, feel free to rea
 ---
 
 Happy coding! Keep exploring, keep learning, and keep building.
-
-```
