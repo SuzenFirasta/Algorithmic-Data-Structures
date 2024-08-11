@@ -94,5 +94,3 @@ If you have any questions, suggestions, or just want to say hi, feel free to rea
 Happy coding! Keep exploring, keep learning, and keep building.
 
 ```
-
-This `README.md` file is structured to provide a clear overview of your repository while also being engaging and informative. It should serve as an excellent introduction to anyone who visits your repository on GitHub.
